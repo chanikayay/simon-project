@@ -118,9 +118,10 @@ function checkAnswer(i) {
 }
 //function for retry interface and re-enable button & keydown
 function startOver() {
-    $("h1").text("Game Over");
+    $("h1").text("Game Over " + "(Level " + level + ")");
     gamePattern = [];
     $(".start").show().text("RETRY");            
     enableKeydown();
     level = 0;
+    $(".btn").addClass("disabled");
 }
