@@ -11,4 +11,4 @@ Simon Game Instructions:
   5. The player must remember and press on the first color button that blinked at the beginning and following by the second color. (e.g., press RED and GREEN)
   6. After passed level 2, the color will randomly blink and the player must remember the pattern of the color blink from level 0 to the current level. (e.g., press RED, GREEN, following colors...)
   7. If the player's press pattern is incorrect, it will be resulted as GAME OVER.
-  8. press A or click START again to retry the game from level 1.
+  8. Press A or click START again to retry the game from level 1.
