@@ -3,7 +3,7 @@ Practiced on JavaScript and played around with jQuery for a cleaner coding.
 Learned how to animate and add sound to the website through Simon Game. <br />
   Simon Game: https://chanikayay.github.io/simon-project/ <br />
 
-Simon Game Instructions: <br />
+Simon Game Instructions:
   1. Press A on the keyboard or click START button to begin
   2. The game will bilnk the color button (e.g., RED button blinks)
   3. The player must press on the color button that the game previously blinked (e.g., press RED button)
